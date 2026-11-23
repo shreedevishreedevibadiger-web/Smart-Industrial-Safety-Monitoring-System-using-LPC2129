@@ -1,0 +1,2 @@
+# Smart-Industrial-Safety-Monitoring-System-using-LPC2129
+This project monitors industrial safety conditions using the LPC2129 ARM7 microcontroller. It uses sensors to detect hazardous conditions such as gas leakage, high temperature, and smoke. When abnormal conditions are detected, the system provides alerts through a buzzer or display, helping prevent accidents and ensuring a safer working environment.
